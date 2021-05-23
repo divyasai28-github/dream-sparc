@@ -1,0 +1,14 @@
+{
+    "services": [{ "id": 1, "title": "MUSIC", 
+      "logoUrl": "http://localhost:9000/XXXX.jpg"},
+      { "id": 2, "title": "ART", 
+        "logoUrl": "http://localhost:9000/XXXX.jpg"
+        },
+        { "id": 3, "title": "FITNESS", 
+          "logoUrl": "http://localhost:9000/XXXX.jpg"
+        },
+          { "id": 4, "title": "PHOTOGRAPY", 
+            "logoUrl": "http://localhost:9000/XXXX.jpg" 
+            }
+    ]
+  } 
